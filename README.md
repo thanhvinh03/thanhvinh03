@@ -2,6 +2,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ho%20Chi%20Minh%20City,%20Vietnam-%2302569B?style=for-the-badge" alt="Location Badge"/>
+
+   <a href="https://github.com/thanhvinh03/thanhvinh03/blob/main/resumes/Thanh%20Vinh%20-%20Software%20Engineer.pdf">
+    <img src="https://img.shields.io/badge/Resume-%2302569B.svg?style=for-the-badge&logo=red&logoColor=white" alt="Resume Badge"/>
+  </a>
 </p>
 
 ---
