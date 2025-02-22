@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/My-Resume-%2302569B.svg?style=for-the-badge&logo=red&logoColor=white" alt="Resume Badge"/>
   </a>
 
-  
 </p>
 
 
@@ -32,6 +31,11 @@
 <a href="https://github.com/thanhvinh03/thanhvinh03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhvinh03&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+<a href="https://github.com/thanhvinh03/thanhvinh03.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhvinh03&repo=thanhvinh03.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 <a href="https://github.com/thanhvinh03/DoAn-QLPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhvinh03&repo=DoAn-QLPT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
