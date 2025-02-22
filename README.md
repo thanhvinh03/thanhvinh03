@@ -1,35 +1,35 @@
-# 👋 Hi there! I'm **Hoàng Thị Thanh Vinh**  
+# 👋 Hi there! I'm **Thanh Vinh**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Qu%E1%BA%A3ng%20Tr%E1%BB%8B,%20Vietnam-%2302569B?style=for-the-badge" alt="Location Badge"/>
+  <img src="https://img.shields.io/badge/-Ho%20Chi%20Minh%20City,%20Vietnam-%2302569B?style=for-the-badge" alt="Location Badge"/>
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-<table align="center">
-<tr>
-  <td align="center"><b>🎓 Education</b></td>
-  <td align="center"><b>📚 Certifications</b></td>
-  <td align="center"><b>💼 Project Highlights</b></td>
-</tr>
-<tr>
-  <td align="center">  
-    Student at <b>HUTECH University</b><br>GPA: <b>3.3</b>  
-  </td>
-  <td align="center">  
-    TOEIC Score: <b>690</b>  
-  </td>
-  <td align="center">  
-    Built a <b>Store Management System</b><br>Using <b>C#</b> and <b>.NET Framework</b>.  
-  </td>
-</tr>
-</table>
-
 ✨ **What drives me**:  
 - A passion for building efficient systems and crafting user-friendly designs.  
 - Constantly exploring cutting-edge technologies and enhancing my skill set.  
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/thanhvinh03/thanhvinh03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvinh03&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/thanhvinh03/thanhvinh03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhvinh03&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/thanhvinh03/DoAn-QLPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhvinh03&repo=DoAn-QLPT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/thanhvinh03/hello-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhvinh03&repo=hello-react&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 ---
 
@@ -59,6 +59,14 @@
 
 ---
 
+# 🌱Social
+
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=thanhvinh03&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
+
+---
+
 ## 🚀 My Journey  
 
 <table align="center">
@@ -82,8 +90,8 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthuytrucqh2003@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thuytruc05/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhvinhhoang246@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thanhvinh1502)  
 
 </div>
 
